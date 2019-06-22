@@ -1,3 +1,10 @@
+
+# BukaShop
+# Karjok Pangesty
+# 22 juni 2019
+# CANTUMKAN SUMBER !!
+
+
 from requests import *
 from bs4 import BeautifulSoup as bs
 from json import *
